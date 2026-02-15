@@ -33,7 +33,7 @@ I am an **Electrical and Electronics Engineering graduate** from NIT Uttarakhand
 ---
 
 ### 📫 Connect with me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/sachin-chaurasiya-a36058216) 
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sachin-chaurasiya-833788228/) 
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:chaurasiya.sachin025@gmail.com)
 
 - 😄 **Pronouns:** He/Him
